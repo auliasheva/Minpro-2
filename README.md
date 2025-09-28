@@ -1,7 +1,12 @@
 # Minpro-2
-*| NAMA: AULIA SHEVA SAVITRI |*
-  *NIM: 2509116001 |*
-*SISTEM MANAGEMEN DATA KARYAWAN MIE GACOAN |*
+--------------------------------------------------
+*NAMA: AULIA SHEVA SAVITRI*
+--------------------------------------------------
+*NIM: 2509116001*
+-------------------------------------------------
+*SISTEM MANAGEMEN DATA KARYAWAN MIE GACOAN*
+-------------------------------------------------
+-------------------------------------------------
 
 # Flowchart
 ![alt text](https://github.com/auliasheva/Minpro-2/blob/main/minpro2.drawio%20(1).png?raw=true)
