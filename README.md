@@ -1,10 +1,14 @@
 # Minpro-2
-*Nama: Aulia Sheva Savitri
-NIM: 2509116001
-SISTEM MANAGEMEN DATA KARYAWAN MIE GACOAN*
+Nama: Aulia Sheva Savitri*
+*NIM: 2509116001*
+*SISTEM MANAGEMEN DATA KARYAWAN MIE GACOAN*
 
 # Flowchart
 ![alt text](https://github.com/auliasheva/Minpro-2/blob/main/minpro2.drawio%20(1).png?raw=true)
+
+Program ini diawali dengan proses login, di mana pengguna diberi tiga kali kesempatan untuk memasukkan username dan password. Jika login berhasil, sistem akan menampilkan identitas beserta role pengguna, yaitu admin atau user. Setelah itu, program menampilkan menu utama yang berisi lima pilihan: tambah karyawan, lihat data karyawan, ubah data karyawan, hapus karyawan, dan keluar.
+
+Hak akses dibedakan berdasarkan role, admin dapat menggunakan semua fitur sedangkan user hanya bisa melihat data karyawan. Setiap pilihan menu memiliki alurnya masing-masing, mulai dari menambah data baru, menampilkan daftar karyawan, mengubah data dengan memilih nomor karyawan, hingga menghapus data dengan konfirmasi. Program berakhir ketika pengguna memilih keluar, dan sistem menampilkan pesan terima kasih sebelum berhenti.
 
 
 # Output Admnin
