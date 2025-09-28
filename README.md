@@ -1,5 +1,5 @@
 # Minpro-2
-Nama: Aulia Sheva Savitri*
+*Nama: Aulia Sheva Savitri*
 *NIM: 2509116001*
 *SISTEM MANAGEMEN DATA KARYAWAN MIE GACOAN*
 
@@ -55,4 +55,4 @@ Hak akses dibedakan berdasarkan role, admin dapat menggunakan semua fitur sedang
   Pengguna login sebagai user lalu memilih menu 4 (Hapus Data Karyawan). Program menolak dengan pesan: “Maaf, hanya admin yang boleh hapus data”. Pengguna juga memilih menu 5 (Keluar). Program menampilkan pesan “Terima kasih telah menggunakan program. Sampai jumpa!” lalu berhenti berjalan.
 ![alt text](https://github.com/auliasheva/Minpro-2/blob/main/minpro%202/Cuplikan%20layar%202025-09-28%20221737.png?raw=true)
 
-
+#Sekian dan Terimakasih
