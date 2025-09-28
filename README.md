@@ -9,7 +9,7 @@
 -------------------------------------------------
 
 # Flowchart
-![alt text](https://github.com/auliasheva/Minpro-2/blob/main/minpro2.drawio%20(1).png?raw=true)
+![alt text](https://github.com/auliasheva/Minpro-2/blob/main/minpro2.drawio%20(2).png?raw=true)
 
 Program ini diawali dengan proses login, di mana pengguna diberi tiga kali kesempatan untuk memasukkan username dan password. Jika login berhasil, sistem akan menampilkan identitas beserta role pengguna, yaitu admin atau user. Setelah itu, program menampilkan menu utama yang berisi lima pilihan: tambah karyawan, lihat data karyawan, ubah data karyawan, hapus karyawan, dan keluar.
 
